@@ -1,0 +1,14 @@
+body            
+{
+    margin:0;
+    width:1024px;
+    padding:10px;
+    background-color:#ebebeb;
+    font-size:14px;
+    font-family:Verdana;
+    display: flex; 
+    justify-content: center;
+}
+checkbox{
+    color: brown;
+}
